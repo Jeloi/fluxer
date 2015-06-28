@@ -19,6 +19,7 @@
     "tape": "^4.0.0"
   },
   "dependencies": {
+    "lodash.assign": "^3.2.0",
     "react": ">=0.12.2 <0.14.0",
     "serialize-javascript": "^1.0.0"
   },
